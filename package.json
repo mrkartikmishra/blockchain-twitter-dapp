@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-twitter-dapp",
+  "version": "1.0.0",
+  "description": "Twitter decentralization application based Blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkartikmishra/blockchain-twitter-dapp.git"
+  },
+  "author": "Kartik Mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrkartikmishra/blockchain-twitter-dapp/issues"
+  },
+  "homepage": "https://github.com/mrkartikmishra/blockchain-twitter-dapp#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.13.0"
+  }
+}
